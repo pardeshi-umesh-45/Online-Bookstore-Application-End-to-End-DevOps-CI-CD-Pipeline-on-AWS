@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # <a href="https://youtu.be/mLFPodZO8Iw" target="_blank"> OnlineBookStore </a> 
 - A Java Web Developement Project
 - **Youtube VIDEO** for step by step Local Setup Guide : https://youtu.be/mLFPodZO8Iw
@@ -141,3 +142,6 @@ Note:- Considering this as a Sample Project, we have not much considered of web 
 <bold>Thanks a lot,</bold><br/>
                                                                                                         Project Leader<br/>
                                                                                                          <b>Shashi Raj</b>
+=======
+# Online-Bookstore-Application-End-to-End-DevOps-CI-CD-Pipeline-on-AWS
+>>>>>>> 6b540a4272d2258d735d6e339ddb94c0f8d542cd
